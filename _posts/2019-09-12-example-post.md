@@ -2,6 +2,7 @@
 layout: post
 title: First MD Post!!!
 subtitle: Each post also has a subtitle
+bigimg: /img/path.jpg
 tags: [test, fun, lit]
 comments: true
 ---

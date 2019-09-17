@@ -3,7 +3,7 @@ layout: post
 title: Who am I?
 subtitle: A comprehensive summary of me.
 bigimg: /img/Palm-Beach-Taxi.jpg
-image: /img/AmyLamCat.jpg
+image: /img/AmyLamBillyCrop.jpg
 tags: [aboutme, fun]
 comments: true
 ---

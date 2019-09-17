@@ -8,7 +8,7 @@ comments: true
 ---
 
 ## **Everything you need to know:**
-+ **Name:** Amy Lam
++ **Name:** [Amy Lam](https://wso.williams.edu/facebook/users/10818)
 + **Year:** 2022
 + **Prospective Major(s):** Biology or Chemistry (Pre-med)
 + **Sewing Experience:** None, but I have always been interested in learning!

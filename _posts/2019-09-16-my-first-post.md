@@ -2,7 +2,7 @@
 layout: post
 title: Who am I?
 subtitle: A **detailed, comprehensive, exhaustive** summary of my _Self_.
-bigimg: /img/path.jpg
+bigimg: /img/PalmBeach.jpg
 tags: [aboutme, fun]
 comments: true
 ---

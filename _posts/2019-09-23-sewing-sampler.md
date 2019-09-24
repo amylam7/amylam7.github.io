@@ -2,7 +2,6 @@
 layout: post
 title: Sewing Sampler
 subtitle: My first stitches!
-image: /img/AmyLamBillyCrop.jpg
 tags: [assignment, sewing]
 comments: true
 ---

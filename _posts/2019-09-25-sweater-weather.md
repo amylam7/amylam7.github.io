@@ -7,6 +7,8 @@ comments: true
 ---
 
 ## **Don't know what to wear? Check with this program, if you dare!**
+Enter any temperature into the program to receive a weather-sensitive attire suggestion.
+
 **Tip/Trick for my Past Self:** Make sure to keep track of how many open operations you have and don't forget to close them. Also, it would be super helpful to plan out what you want the program to do (maybe on paper) before starting to actually write it.
 
 ![-50inbigcoatout](https://amylam7.github.io/img/-50inbigcoatout.png)

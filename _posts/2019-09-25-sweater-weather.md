@@ -10,20 +10,20 @@ comments: true
 **Tip/Trick for my Past Self:** Make sure to keep track of how many open operations you have and don't forget to close them. Also, it would be super helpful to plan out what you want the program to do (maybe on paper) before starting to actually write it.
 
 ![-50inbigcoatout](https://amylam7.github.io/img/-50inbigcoatout.png)
-The above image presents the output from the program with input: temperature = -50.
+**Figure 1.** The above image presents the output from the program with input: temperature = -50.
 
 ![0inhatglovesout](https://amylam7.github.io/img/0inhatglovesout.png)
-The above image presents the output from the program with input: temperature = 0.
+**Figure 2.** The above image presents the output from the program with input: temperature = 0.
 
 ![50insweaterout](https://amylam7.github.io/img/50insweaterout.png)
-The above image presents the output from the program with input: temperature = 50.
+**Figure 3.** The above image presents the output from the program with input: temperature = 50.
 
 ![70inthinlayersout](https://amylam7.github.io/img/70inthinlayersout.png)
-The above image presents the output from the program with input: temperature = 70.
+**Figure 4.** The above image presents the output from the program with input: temperature = 70.
 
 ![100inshortsout](https://amylam7.github.io/img/100inshortsout.png)
-The above image presents the output from the program with input: temperature = 100.
+**Figure 5.** The above image presents the output from the program with input: temperature = 100.
 
 ![2000insunscreenout](https://amylam7.github.io/img/2000insunscreenout.png)
-The above image presents the output from the program with input: temperature = 2000.
+**Figure 6.** The above image presents the output from the program with input: temperature = 2000.
 

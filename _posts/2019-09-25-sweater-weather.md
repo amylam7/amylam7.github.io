@@ -6,7 +6,24 @@ tags: [assignment, programming]
 comments: true
 ---
 
-## ****
-**Tip/Trick for my Past Self:** Make sure to keep the fabric taut, but not pulling too tight (to prevent puckering) throughout stitching... even if it makes your hand cramp up a bit. Also, don't slack off with the outlining, it'll save your life later!
+## **Don't know what to wear? Check with this program, if you dare!**
+**Tip/Trick for my Past Self:** Make sure to keep track of how many open operations you have and don't forget to close them. Also, it would be super helpful to plan out what you want the program to do (maybe on paper) before starting to actually write it.
 
-![sewingsampler]https:(//ibb.co/WzzBXfF)
+![-50inbigcoatout](https://amylam7.github.io/img/-50inbigcoatout.png)
+The above image presents the output from the program with input: temperature = -50.
+
+![0inhatglovesout](https://amylam7.github.io/img/0inhatglovesout.png)
+The above image presents the output from the program with input: temperature = 0.
+
+![50insweaterout](https://amylam7.github.io/img/50insweaterout.png)
+The above image presents the output from the program with input: temperature = 50.
+
+![70inthinlayersout](https://amylam7.github.io/img/70inthinlayersout.png)
+The above image presents the output from the program with input: temperature = 70.
+
+![100inshortsout](https://amylam7.github.io/img/100inshortsout.png)
+The above image presents the output from the program with input: temperature = 100.
+
+![2000insunscreenout](https://amylam7.github.io/img/2000insunscreenout.png)
+The above image presents the output from the program with input: temperature = 2000.
+

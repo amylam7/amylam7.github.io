@@ -38,13 +38,13 @@ avatar: "/img/AmyLamDawg.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#D6EAF8"
-navbar-text-col: "#FCF3CF"
-navbar-children-col: "#F4ECF7"
+navbar-text-col: "#3498DB"
+navbar-children-col: "#D2B4DE"
 page-col: "#EBF5FB"
 link-col: "#4D5656"
-hover-col: "#F4ECF7"
+hover-col: "#D2B4DE"
 footer-col: "#D6EAF8"
-footer-text-col: "#FCF3CF"
+footer-text-col: "#3498DB"
 footer-link-col: "#4D5656"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images

@@ -14,17 +14,17 @@ This assignment entailed creating a light-up plushy using LEDs and Lilypad circu
 
 ![CircuitPlushyFrontOn](https://amylam7.github.io/img/CircuitPlushyFrontOn.jpg)
 
-**Figure 1.** The above image presents the plushy's LEDs lighting up when the switch is on and the button is pressed.
+**Figure 1.** The above image presents the completed plushy's LEDs lighting up when the switch is on and the button is pressed.
 
 
 ![CircuitPlushyFront](https://amylam7.github.io/img/CircuitPlushyFront.jpg)
 
-**Figure 2.** The above image presents the front of the plushy wnen the switch is off and the button is unpressed.
+**Figure 2.** The above image presents the front of the completed plushy when the switch is off and the button is unpressed.
 
 
 ![CircuitPlushyBack](https://amylam7.github.io/img/CircuitPlushyBack.jpg)
 
-**Figure 3.** The above image presents the back of the plushy.
+**Figure 3.** The above image presents the back of the completed plushy.
 
 
 ![CircuitPlushyPrototype](https://amylam7.github.io/img/CircuitPlushyPrototype.jpg)

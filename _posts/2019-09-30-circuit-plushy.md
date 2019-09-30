@@ -11,19 +11,29 @@ This assignment entailed creating a light-up plushy using LEDs and Lilypad circu
 
 **Tip/Trick for my Past Self:** Make sure to secure the pieces into the fabric by making a couple loops at each hole/junction point with the conductive thread. 
 
+
 ![CircuitPlushyFrontOn](https://amylam7.github.io/img/CircuitPlushyFrontOn.jpg)
+
 **Figure 1.** The above image presents the plushy's LEDs lighting up when the switch is on and the button is pressed.
 
+
 ![CircuitPlushyFront](https://amylam7.github.io/img/CircuitPlushyFront.jpg)
+
 **Figure 2.** The above image presents the front of the plushy wnen the switch is off and the button is unpressed.
 
+
 ![CircuitPlushyBack](https://amylam7.github.io/img/CircuitPlushyBack.jpg)
+
 **Figure 3.** The above image presents the back of the plushy.
 
+
 ![CircuitPlushyPrototype](https://amylam7.github.io/img/CircuitPlushyPrototype.jpg)
+
 **Figure 4.** The above image presents the alligator prototyping stage of the plushy. However, I forgot to take a photo of the actual alligator prototyping stage so I have recreated the alligator prototype I made using paper cut-outs of the pieces, connected with alligator clips as it originally was.
 
+
 ![CircuitPlushyWorksheet](https://amylam7.github.io/img/CircuitPlushyWorksheet.jpg)
+
 **Figure 5.** The above image presents the Plushy Paper Prototype. This was my planning sheet for how the circuit would work relating to the connections between the individual Lilypad pieces.
 
 

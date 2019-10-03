@@ -6,26 +6,10 @@ tags: [assignment, programming]
 comments: true
 ---
 
-## **!**
-Enter any temperature into the program to receive a weather-sensitive attire suggestion.
+## **Check out how our Circuit Plushy can light up your world!**
+This program uses the state of the slide switch and button to predict the circuit behavior of our circuit plushy to present how the LEDs are expected to behave.
 
-**Tip/Trick for my Past Self:** Make sure to keep track of how many open operations you have and don't forget to close them. Also, it would be super helpful to plan out what you want the program to do (maybe on paper) before starting to actually write it.
+**Tip/Trick for my Past Self:** Nested ifs are helpful in making code less repetitive and more brief. Look for repetition and see if you can incorporate a nested if to reduce redundancy in the code. Also, watch those curly brackets, don't let them invade within nested ifs!
 
-![-50inbigcoatout](https://amylam7.github.io/img/-50inbigcoatout.png)
-**Figure 1.** The above image presents the output from the program with input: temperature = -50.
-
-![0inhatglovesout](https://amylam7.github.io/img/0inhatglovesout.png)
-**Figure 2.** The above image presents the output from the program with input: temperature = 0.
-
-![50insweaterout](https://amylam7.github.io/img/50insweaterout.png)
-**Figure 3.** The above image presents the output from the program with input: temperature = 50.
-
-![70inthinlayersout](https://amylam7.github.io/img/70inthinlayersout.png)
-**Figure 4.** The above image presents the output from the program with input: temperature = 70.
-
-![100inshortsout](https://amylam7.github.io/img/100inshortsout.png)
-**Figure 5.** The above image presents the output from the program with input: temperature = 100.
-
-![2000insunscreenout](https://amylam7.github.io/img/2000insunscreenout.png)
-**Figure 6.** The above image presents the output from the program with input: temperature = 2000.
-
+![plushyon](https://amylam7.github.io/img/plushyon.png)
+**Figure 1.** The above image presents the output from the program with input: swt = 1; btn = 1.

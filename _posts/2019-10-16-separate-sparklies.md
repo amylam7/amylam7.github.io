@@ -14,8 +14,8 @@ This program is our first step into Arduino programming, which uses a unique lan
 ![FlashbulbArduino](https://amylam7.github.io/img/[FlashbulbArduino.jpg)
 **Figure 1.** The above image presents the working LED behavior from the Arduino code: flashes brightly for 0.5 seconds, every 4 seconds, starting at second 0.
 
-![Synchronous](https://amylam7.github.io/img/Synchronous.jpg)
+![SynchronousArduino](https://amylam7.github.io/img/SynchronousArduino.jpg)
 **Figure 2.** The above image presents the working LED behavior from the Arduino code: flashes brightly for 0.2 seconds, in a series of 3 flashes (separated by 0.1 secs each), every 10 seconds, starting at 0 seconds.
 
-![BigDipper](https://amylam7.github.io/img/BigDipper.jpg)
+![BigDipperArduino](https://amylam7.github.io/img/BigDipperArduino.jpg)
 **Figure 3.** The above image presents the working LED behavior from the Arduino code: flashes every 3 seconds in a manner that gradually increases the brightness by 30 every 0.1 seconds.

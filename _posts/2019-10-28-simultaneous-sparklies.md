@@ -11,7 +11,7 @@ This Arduino program builds upon our first program, allowing us to further pract
 
 **Tip/Trick for my Past Self:** Keep track of all of your variable names, try not to make more variables than necessary.
 
-![FlashbulbSimultaneous](https://amylam7.github.io/img/[flashbulbsimultaneous.jpg)
+![FlashbulbSimultaneous](https://amylam7.github.io/img/flashbulbsimultaneous.jpg)
 
 **Figure 1.** The above image presents the working LED behavior from the Flashbulb Arduino code: flashes brightly for 0.5 seconds, every 4 seconds, starting at second 0.
 

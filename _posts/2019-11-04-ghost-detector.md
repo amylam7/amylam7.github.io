@@ -9,7 +9,7 @@ comments: true
 ## **When the sky turns to night and the a cool breeze whips by, be prepared to alert the masses of an oncoming ghost attack!**
 This Arduino program uses sensory analog input in the form temperature and light in order to determine whether it is cold and dark enough for there to be a ghost nearby, wherein all of the red onboard LEDs will be turned on to alert others of the ghost detection.
 
-**Tip/Trick for my Past Self:** 
+**Tip/Trick for my Past Self:** Make sure the temperature and light thresholds are reasonable for the environment in which you are testing the code, otherwise you may test the program and falsely conclude that it works/doesn't work. It may be helpful to use the serial monitor to visualize what sensory input the Arduino is receiving and evaluate the subsequent output accordingly.
 
 ![ghostOff](https://amylam7.github.io/img/ghostOff.jpg)
 

@@ -11,5 +11,4 @@ This project will involve creating a simple circuit of a switch and LEDs in a he
 
 ![Scaredy Cat Sensor](https://amylam7.github.io/img/Scaredy Cat Sensor.jpg)
 
-**Figure 1.** The above image presents the working behavior from the Arduino code when the alligator clips are unconnected. Though it is not visually detectable, the morse code "AMY" is being emitted.
 

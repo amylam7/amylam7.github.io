@@ -11,4 +11,10 @@ This project will involve creating a simple circuit of a switch and LEDs in a he
 
 ![Scaredy Cat Sensor](https://amylam7.github.io/img/Scaredy Cat Sensor.jpg)
 
-
+**Updated Supplies List:**
++ 1 M T shirt
++ 6" x 10" red felt
++ embroidery floss (blue, red, pink, black)
++ 2 sewable snaps
++ fabric paint/glue for insulation
++ 5" x 5" conductive fabric (i think i want to try to incorporate a homemade button for more complexity)

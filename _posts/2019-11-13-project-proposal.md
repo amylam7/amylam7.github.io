@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scared Cat Sensor
+title: Scaredy Cat Sensor
 subtitle: When the sun goes down, the heart rate goes up!
 tags: [assignment, programming, arduino, project]
 comments: true

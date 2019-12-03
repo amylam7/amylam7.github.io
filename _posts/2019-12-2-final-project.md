@@ -4,7 +4,7 @@ title: Scaredy Cat Sensor and Saver!
 subtitle: Fear Death by Darkness No More with this Scaredy Cat Sensor and Saver!
 tags: [assignment, programming, arduino, project]
 comments: true
--
+---
 ## **Wear your heart and your fears on your sleeve!**
 
 Scared of the dark? Want everyone to sense your totally rational fear from miles away? Looking to stay prepared just in case your intense fear of the dark someday endangers your life? Look no further! With this stylish T-shirt, as the environment gets darker, the LED pulsing and heartbeat sounds will increase in frequency, mimicking the erratic racing of your heart when the sun goes down. If the darkness becomes so paralyzing that your heart literally stops and you enter cardic arrest, have a helpful bystander hold down the cute button in the center of your shirt to start playing the tune of "Stayin' Alive" by the Bee Gees to guide the process of hands-only CPR to keep the tempo of ~103 beats per minute-- the same tempo chest compressions should be given.

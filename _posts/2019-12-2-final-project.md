@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaredy Cat Sensor and Saver!
-subtitle: Fear Death by Darkness No More with this Scaredy Cat Sensor and Saver!
+subtitle: Fear Death by Darkness No More!
 tags: [assignment, programming, arduino, project]
 comments: true
 ---
